@@ -29,7 +29,7 @@ Follow these steps to set up and run the project on your local machine:
 
 **Step 1: Clone or Download the Project**  
   * clone the repository using git  
-  ``` git clone https://github.com/your-username/energy-gdp-analysis.git ```
+  ``` git clone https://github.com/kiranm7753/Interactive-Data-Visualization-for-GDP-and-Energy-Metrics.git ```
 Or download the project as a ZIP file and extract it to your desired folder.
 
 **Step 2:** After cloning or extracting,Open the Project
