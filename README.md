@@ -22,13 +22,13 @@ Prerequisites
 Modern web browser (e.g., Chrome, Firefox, Edge)
 Local web server (optional for advanced use)
 
-Steps
+Steps:
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/your-username/energy-gdp-analysis.git
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd energy-gdp-analysis
 
