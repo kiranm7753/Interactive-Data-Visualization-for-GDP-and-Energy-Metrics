@@ -23,14 +23,15 @@ Modern web browser (e.g., Chrome, Firefox, Edge)
 Local web server (optional for advanced use)
 
 Steps
+
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/your-username/energy-gdp-analysis.git
+
 Navigate to the project directory:
-bash
-Copy code
+
 cd energy-gdp-analysis
+
 Open the index.html file in your browser:
 Double-click the file, or
 Serve it locally using a web server like http-server:
