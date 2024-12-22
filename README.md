@@ -3,6 +3,7 @@ This project visualizes the relationship between global energy consumption and G
 
 **Features:**	
 **Interactive World Map:** Displays energy consumption data by country for selected years.	
+
 **Year Slider:** Allows users to view energy consumption trends over time (1990–2014).	
 **Bar Chart: **Visualizes rankings of top and bottom countries based on energy consumption.	
 **Line and Scatter Plot Tooltips:** Offers detailed insights into GDP per energy unit and energy consumption vs. GDP correlations.	
