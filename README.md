@@ -1,13 +1,13 @@
-**Overview**
+**Overview**	
 This project visualizes the relationship between global energy consumption and GDP efficiency using interactive maps and charts. It highlights the impact of renewable energy on economic growth and provides an engaging, data-driven experience for users to explore country-level insights.
 
-**Features:**
-**Interactive World Map:** Displays energy consumption data by country for selected years.
-**Year Slider:** Allows users to view energy consumption trends over time (1990–2014).
-**Bar Chart: **Visualizes rankings of top and bottom countries based on energy consumption.
-**Line and Scatter Plot Tooltips:** Offers detailed insights into GDP per energy unit and energy consumption vs. GDP correlations.
-**Country Selector: ** Compare energy and GDP data for multiple countries in a single view.
-**Toggle Charts: **Switch between views of highest and lowest energy-consuming countries.
+**Features:**	
+**Interactive World Map:** Displays energy consumption data by country for selected years.	
+**Year Slider:** Allows users to view energy consumption trends over time (1990–2014).	
+**Bar Chart: **Visualizes rankings of top and bottom countries based on energy consumption.	
+**Line and Scatter Plot Tooltips:** Offers detailed insights into GDP per energy unit and energy consumption vs. GDP correlations.	
+**Country Selector: ** Compare energy and GDP data for multiple countries in a single view.		
+**Toggle Charts: **Switch between views of highest and lowest energy-consuming countries.	
 **Technologies Used**
 HTML5: Structure of the webpage.
 CSS3: Styling and layout, including responsive design.
