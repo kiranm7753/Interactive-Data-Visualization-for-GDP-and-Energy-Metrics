@@ -1,4 +1,4 @@
-                                                                                       **Overview**	
+                                                                                       Overview
                                                                                        
 This project visualizes the relationship between global energy consumption and GDP efficiency using interactive maps and charts. It highlights the impact of renewable energy on economic growth and provides an engaging, data-driven experience for users to explore country-level insights.
 
